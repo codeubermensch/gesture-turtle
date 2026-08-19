@@ -11,7 +11,7 @@ The project combines:
 - **ROS 2 topics and messages** for communication between perception and control
 - **turtlesim** as the simulated robot
 
-![Gesture Controlled Turtle Demo](demo.gif)
+![Gesture Controlled Turtle Demo](./demo.gif)
 
 ---
 
